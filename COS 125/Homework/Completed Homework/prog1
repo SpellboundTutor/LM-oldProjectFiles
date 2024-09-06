@@ -1,0 +1,6 @@
+SET 1 1
+SET 10 3
+PRT 0
+ADD 0 1 0
+GLT 0 3 2
+END

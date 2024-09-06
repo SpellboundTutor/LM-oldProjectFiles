@@ -1,0 +1,10 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.cursorStyle": "line",
+    "editor.inlineSuggest.enabled": false,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "editor.quickSuggestionsDelay": 5,
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Monokai"
+}

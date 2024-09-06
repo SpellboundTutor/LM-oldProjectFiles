@@ -1,0 +1,4 @@
+import mclaughlin_hw6
+
+test6 = mclaughlin_hw6.yearReader(1871)
+print(test6)

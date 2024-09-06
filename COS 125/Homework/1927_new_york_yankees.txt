@@ -1,0 +1,28 @@
+The (110-44) 1927 New York Yankees roster: 
+
+NAME                           SLUGGING
+Walter Beall                      0.000
+Benny Bengough                    0.424
+Pat Collins                       0.494
+Earle Combs                       0.611
+Joe Dugan                         0.437
+Cedric Durst                      0.380
+Mike Gazella                      0.522
+Lou Gehrig                        0.966
+Joe Giard                         0.286
+Johnny Grabowski                  0.359
+Waite Hoyt                        0.293
+Mark Koenig                       0.447
+Tony Lazzeri                      0.579
+Bob Meusel                        0.634
+Wilcy Moore                       0.133
+Ray Morehart                      0.379
+Ben Paschal                       0.707
+Herb Pennock                      0.275
+George Pipgras                    0.373
+Dutch Ruether                     0.388
+Babe Ruth                         0.952
+Bob Shawkey                       0.091
+Urban Shocker                     0.278
+Myles Thomas                      0.333
+Julie Wera                        0.476
