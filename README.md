@@ -1,7 +1,7 @@
-This repository is for old project and homework files directly related to my work as a student at the University of Maine's COS 125 course during the Fall 2023 semester.
+This repository contains old projects and homework files directly related to my work as a student in the University of Maine's COS 125 course during the Fall 2023 semester.
 
-I have made this repository public in order to show work that I have done to my peers and to current and future instructors and employers on the work that I have done in the past.
+I have made this repository public to show my past work to my peers, current and future instructors, and employers.
 
-Duplication of any .py files within this repository for the purposes of homework is done at the user's own risk. The owner of this repository takes no responsibility for any consequences resulting in charges of plagiarism. You have been warned.
+Duplication of any files within this repository for homework is done at the user's risk. The owner of this repository takes no responsibility for any consequences resulting in charges of plagiarism. Just to let you know, you have been warned.
 
-Using this repository for the purposes of training generative AI or similar without the express written and signed consent of the owner is not permissible under any circumstances.
+It is not permissible under any circumstances to use this repository to train generative AI or similar without the express written and signed consent of the owner. Violations of this will be answered to the highest degree available.
